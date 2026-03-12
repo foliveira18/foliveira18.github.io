@@ -1,7 +1,3 @@
-I do not yet have a website  https://foliveira18.github.io . Can you please use my readme to create the HTML code for my website? # Fernando Oliveira
-Head of Division — Analytics, Data and Modelling  
-Trade and Agriculture Directorate, OECD
-
 - **Current:** Head of Division (Analytics, Data & Modelling) — OECD, Trade & Agriculture  
 - **Interests:** decision support, behavioral design, applied analytics, product demos, rapid prototyping  
 
